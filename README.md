@@ -16,3 +16,5 @@ All material in this repository is being shared under the MIT License. Please ad
 ## List of Mini Jupyter Exercises
 - Exercise \#1: [Warming up with data and plots](http://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%231.pdf)
   - [Jupyter Notebook Solution](http://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%231.ipynb)
+- Exercise \#2: [Understanding Principal Component Analysis (PCA)](https://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%232.pdf)
+  - [Jupyter Notebook Solution](https://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%232.ipynb)
