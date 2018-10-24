@@ -14,7 +14,9 @@ As part of the hands-on component of this class, students were required to submi
 All material in this repository is being shared under the MIT License. Please adhere to the requirements listed in the [license](http://github.com/SigProcessing/RUECE445F18/blob/master/LICENSE) before using any or parts of this material.
 
 ## List of Mini Jupyter Exercises
-- Exercise \#1: [Warming up with data and plots](http://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%231.pdf)
+- Exercise \#1: [Warming-up With Data and Plots](http://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%231.pdf)
   - [Jupyter Notebook Solution](http://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%231.ipynb)
 - Exercise \#2: [Understanding Principal Component Analysis (PCA)](https://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%232.pdf)
   - [Jupyter Notebook Solution](https://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%232.ipynb)
+- Exercise \#3: [Gradient Descent and Parameter Estimation](https://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%233.pdf)
+  - [Jupyter Notebook Solution](https://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%233.ipynb)
