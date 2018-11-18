@@ -20,3 +20,5 @@ All material in this repository is being shared under the MIT License. Please ad
   - [Jupyter Notebook Solution](https://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%232.ipynb)
 - Exercise \#3: [Gradient Descent and Parameter Estimation](https://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%233.pdf)
   - [Jupyter Notebook Solution](https://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%233.ipynb)
+- Exercise \#4: [k-Nearest Neighbor Classification](https://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%234.pdf)
+  - [Jupyter Notebook Solution](https://github.com/SigProcessing/RUECE445F18/blob/master/ECE445F18--Exercise%234.ipynb)
